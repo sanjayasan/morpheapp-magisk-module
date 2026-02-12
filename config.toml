@@ -1,5 +1,6 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
 rv-brand = "MorpheApp"
 parallel-jobs = 1
 
